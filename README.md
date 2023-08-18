@@ -88,3 +88,4 @@ I have created repo name "waqas_docker-assignment"
 I have succfully created the README.ms file and have logged the details of each step in this file
 
 # Step 8
+Successfully pushed the code to this repo
